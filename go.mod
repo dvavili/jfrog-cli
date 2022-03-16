@@ -31,3 +31,5 @@ require (
 // replace github.com/jfrog/gofrog => github.com/jfrog/gofrog v1.0.7-0.20211128152632-e218c460d703
 
 // replace github.com/jfrog/build-info-go => github.com/jfrog/build-info-go v1.0.2-0.20220222144839-297d97db5248
+
+replace github.com/jfrog/jfrog-cli-core/v2 => github.com/dvavili/jfrog-cli-core/v2 v2.10.2-0.20220316225913-f01b99684df2
